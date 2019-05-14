@@ -1,0 +1,1 @@
+usart_it_2_3_cube_mx\startup_stm32f407xx.o: startup_stm32f407xx.s
